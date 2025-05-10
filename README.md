@@ -7,7 +7,7 @@
   <strong>Fecha:</strong> 10 de mayo de 2025 <br>
   <strong>Carrera:</strong> Ciencias de la Computación <br>
   <strong>Asignatura:</strong> Programación Orientada a Objetos <br>
-  <strong>Horas dedicadas:</strong> 2 
+  <strong>Horas dedicadas:</strong> 2 <br>
   <strong>Resultado del Aprendizaje: </strong> Diseñar del Diagrama de Clases UML considerando las clases para cada capa del MVC <br>
   <strong>Indicador del Logro: </strong>El estudiante entiende y programa utilizando el patrón MVC <br>
 </p>
